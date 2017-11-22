@@ -1,0 +1,28 @@
+{
+  "name": "mail-templates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "del": "^3.0.0",
+    "ejs": "^2.5.7",
+    "gulp": "^3.9.1",
+    "gulp-batch": "^1.0.5",
+    "gulp-compile-handlebars": "^0.6.1",
+    "gulp-each": "^0.5.0",
+    "gulp-ejs-monster": "^3.1.1",
+    "gulp-inline-css": "^3.1.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-mandrill-templates": "github:amirilovic/gulp-mandrill-templates",
+    "gulp-sass": "^3.1.0",
+    "gulp-sequence": "^0.4.6",
+    "gulp-watch": "^4.3.11",
+    "handlebars": "^4.0.11"
+  }
+}
